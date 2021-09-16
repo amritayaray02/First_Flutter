@@ -1,5 +1,3 @@
-# Ada Lovelace
-
-This is my first flutter project
-![GitHub Logo](Screenshots.png)
-Format: ![Alt Text](url)
+## This is my first flutter project  <br/>
+### Here is a preview of my app layout: <br/>
+![](Screenshot.png)
